@@ -1,6 +1,8 @@
 # Quiz_Game_Python
 
-It is a simple Quiz Game.
+It is a simple Quiz Game. In this game, one multiple-choice question will be display & the user have to answer that question. To get a question I use The Open Trivia Database. It provides a completely free JSON API for use in programming projects. Use of this API does not require an API Key, just generate the URL below use it in your application to retrieve trivia questions.
+
+<a href="https://opentdb.com/api_config.php">Click here to get API</a>
 
 <h2> Output </h2>
 
